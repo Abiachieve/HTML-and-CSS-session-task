@@ -1,0 +1,41 @@
+
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+
+    
+    .textbox {
+      width: 300px;
+      height: 150px;
+      margin: 20px auto;
+      padding: 10px;
+     
+      border-radius: 5px;
+      align-items: flex-start;
+    }
+    
+    .contact {
+      margin-bottom: 50px;
+      text-align: left;
+      padding: 10px;
+      
+    }
+    
+    .copyright {
+      margin-top: 250px;
+      font-size: 12px;
+      color: #888;
+    }
+    .container {
+  position: relative;
+ 
+  }
+
+  .container img{
+  float: right;
+  margin-right: 250px;
+  
+}
+
+
